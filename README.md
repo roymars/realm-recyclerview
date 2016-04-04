@@ -1,5 +1,6 @@
 # A RecyclerView that is powered by Realm
 
+*Updated Realm to 0.88.2*
 A powerful ```Recyclerview``` wrapper for working with ```Realm``` as your datastore. It supports the following features out of the box:
 
 * Custom adapter that automatically refreshes the list when the realm changes and animates the new items in.
